@@ -1,0 +1,5 @@
+﻿  Project3Main.cpp
+C:\Users\ja-kn\Desktop\Project3CompilationFINAL\Project3FinalTURNIN\Project3FinalTURNIN\Project3Main.cpp(132,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ja-kn\Desktop\Project3CompilationFINAL\Project3FinalTURNIN\Project3FinalTURNIN\Project3Main.cpp(150,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  LINK : C:\Users\ja-kn\Desktop\Project3CompilationFINAL\Project3FinalTURNIN\x64\Debug\Project3FinalTURNIN.exe not found or not built by the last incremental link; performing full link
+  Project3FinalTURNIN.vcxproj -> C:\Users\ja-kn\Desktop\Project3CompilationFINAL\Project3FinalTURNIN\x64\Debug\Project3FinalTURNIN.exe
