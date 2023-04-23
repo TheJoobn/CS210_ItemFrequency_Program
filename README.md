@@ -3,8 +3,8 @@ Summarize the project and what problem it was solving.
 
 This program allows a store to be able to view the frequency of items sold throughout the day.
 A menu inputs a choice 1-4 from the user. Option 1 will input an item from the user, and will then output that item's frequency sold throughout the day. 
-Option 2 will output the whole list of items along with their frequencies. O
-ptions 3 will do the same but in histogram form using ‘*’s instead of numbers for visual representation. 
+Option 2 will output the whole list of items along with their frequencies. 
+Option 3 will do the same but in histogram form using ‘*’s instead of numbers for visual representation. 
 Option 4 will then terminate the program. 
 This program analyzes daily text records from input file CS210_Project_Three_Input_File.txt: 
 The records consist of a list of purchased items in order from the stores open to the stores close. 
