@@ -13,7 +13,7 @@ A menu inputs a choice 1-4 from the user:
 
  - Option 4 will then terminate the program. 
 
-This program analyzes daily text records from input file CS210_Project_Three_Input_File.txt: 
+ This program analyzes daily text records from input file CS210_Project_Three_Input_File.txt: 
 
 The records consist of a list of purchased items in order from the stores open to the stores close. 
 
