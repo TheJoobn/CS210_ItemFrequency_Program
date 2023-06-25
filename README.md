@@ -1,4 +1,4 @@
-# Cplusplus-Program.
+# Item Frequency Counter Program
      Summarize the project and what problem it was solving.
 
 This program allows a store to be able to view the frequency of items sold throughout the day.
