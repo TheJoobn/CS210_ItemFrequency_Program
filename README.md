@@ -22,6 +22,7 @@ A data file frequency.dat is created at the beginning of the program without use
 The frequency.dat file will include every item (represented by a word) paired with the number of times that item appears in the input file.
 
 
+
      What did you do particularly well?
 
  - I did well in the area of perseverance. Every time that I got stuck, I was able to think of or find some way to go about fixing my problem. 
@@ -37,6 +38,7 @@ The frequency.dat file will include every item (represented by a word) paired wi
 Reading, writing, and manipulating files along with using classes are all things I could use more practice on. 
 
 As such, I found these areas most challenging but also the most fun to mess with. 
+
 
 
      What skills from this project will be particularly transferable to other projects or coursework?
