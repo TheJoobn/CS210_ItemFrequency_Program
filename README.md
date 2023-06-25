@@ -56,9 +56,10 @@ There are numerous skills from this project that are transferable to my future p
  - Modularizing code and incremental writing
 
 
+
+
      How did you make this program maintainable, readable, and adaptable?
      
-
 I tried to cut down on the length of my main to make my code more readable. This also makes it more maintainable for future adaptations and additions. 
 
 For improvement, my main could be further cut down and made to look cleaner.
