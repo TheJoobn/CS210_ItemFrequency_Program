@@ -31,6 +31,7 @@ The frequency.dat file will include every item (represented by a word) paired wi
  - I also did a good job of staying true to the pseudocode and updating it as needed. 
 
 
+
      Most challenging parts?
 
 Reading, writing, and manipulating files along with using classes are all things I could use more practice on. 
