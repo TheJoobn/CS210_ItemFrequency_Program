@@ -3,7 +3,9 @@
 
 This program allows a store to be able to view the frequency of items sold throughout the day.
 
-A menu inputs a choice 1-4 from the user. Option 1 will input an item from the user, and will then output that item's frequency sold throughout the day. 
+A menu inputs a choice 1-4 from the user. 
+
+Option 1 will input an item from the user, and will then output that item's frequency sold throughout the day. 
 
 Option 2 will output the whole list of items along with their frequencies. 
 
