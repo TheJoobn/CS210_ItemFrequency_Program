@@ -13,7 +13,7 @@ A menu inputs a choice 1-4 from the user:
 
  - Option 4 will then terminate the program. 
 
- This program analyzes daily text records from input file CS210_Project_Three_Input_File.txt: 
+This program analyzes daily text records from input file CS210_Project_Three_Input_File.txt: 
 
 The records consist of a list of purchased items in order from the stores open to the stores close. 
 
@@ -24,11 +24,11 @@ The frequency.dat file will include every item (represented by a word) paired wi
 
      What did you do particularly well?
 
-I did well in the area of perseverance. Every time that I got stuck, I was able to think of or find some way to go about fixing my problem. 
+ - I did well in the area of perseverance. Every time that I got stuck, I was able to think of or find some way to go about fixing my problem. 
 
-I did pretty well at shortening my main, even though It could’ve been shortened even more. 
+ - I did pretty well at shortening my main, even though It could’ve been shortened even more. 
 
-I also did a good job of staying true to the pseudocode and updating it as needed. 
+ - I also did a good job of staying true to the pseudocode and updating it as needed. 
 
 
      Most challenging parts?
