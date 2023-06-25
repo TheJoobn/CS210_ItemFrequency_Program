@@ -42,15 +42,15 @@ As such, I found these areas most challenging but also the most fun to mess with
 
 There are numerous skills from this project that are transferable to my future projects. These would include:
 
-Writing proper, well written code
+ - Writing proper, well written code
 
-Manipulating, reading, and writing to files
+ - Manipulating, reading, and writing to files
 
-Creating and using classes
+ - Creating and using classes
 
-Do-while loops and switch cases
+ - Do-while loops and switch cases
 
-Modularizing code and incremental writing
+ - Modularizing code and incremental writing
 
 
      How did you make this program maintainable, readable, and adaptable?
