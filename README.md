@@ -59,7 +59,7 @@ There are numerous skills from this project that are transferable to my future p
 
 
 
-     How did you make this program maintainable, readable, and adaptable?
+            How did you make this program maintainable, readable, and adaptable?
      
 I tried to cut down on the length of my main to make my code more readable. This also makes it more maintainable for future adaptations and additions. 
 
